@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="testing_please_ignore" label="Testing Please Ignore" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testing_please_ignore</element>
+            <help/>
+            <hint/>
+            <label>Testing Please Ignore</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>Testing Please Ignores</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-13 15:54:23</sys_created_on>
+            <sys_id>f17d61c1db0303008ba872ffbf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testing Please Ignore</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_testing_please_ignore_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-13 15:54:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
